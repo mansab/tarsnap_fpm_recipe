@@ -35,7 +35,7 @@ The build server must have following packages installed:
 * e2fslibs-dev
 
 ### CentOS:
-* openssl'
+* openssl
 * zlib
 * e2fsprogs
 * glibc-devel
