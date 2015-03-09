@@ -1,3 +1,10 @@
+# class Tarsnap < FPM::Cookery::Recipe
+# AUTHOR Mansab Uppal
+# Official site: http://mansab.upp.al
+# Official git repository: https://github.com/mansab/puppet-tarsnap
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+# See README.md for more information.
+#
 class Tarsnap < FPM::Cookery::Recipe
   description 'Tarsnap is a secure online backup service for BSD, Linux, OS X, Minix, OpenIndiana, Cygwin, and probably many other UNIX-like operating systems.'
 

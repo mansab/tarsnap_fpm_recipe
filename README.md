@@ -1,4 +1,4 @@
-# fpm-cook tarsnap 
+# class Tarsnap < FPM::Cookery::Recipe
 
 This is an FPM recipe for building Tarsnap package from source.
 
